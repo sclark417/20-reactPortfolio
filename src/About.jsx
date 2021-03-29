@@ -10,7 +10,7 @@ export default function About() {
           <div class="row mt-5">
           	 <div class="col-3"></div>
           	 <div class="col-2">
-          	 	<img class="headshot" src="" alt="headshot"/>
+          	 	<img class="Profilepic" src="/Profilepic.jpg" alt="Profilepic"/>
           	 </div>
              <div class="col-4 back"></div>
           </div>
