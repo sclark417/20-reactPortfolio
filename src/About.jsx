@@ -12,7 +12,9 @@ export default function About() {
           	 <div class="col-2">
           	 	<img class="Profilepic" src="/Profilepic.jpg" alt="Profilepic"/>
           	 </div>
-             <div class="col-4 back"></div>
+             <div class="col-4 back">Hello all, My Name is Stephen Clark.  I live in Parker Colorado, and have been attending the coding program with the University of Denver for the past three months.
+             I am very excited after the class ends to see what the future holds for my coding career.  Please feel free to contact me and checkout my links provided below to look at my work
+             in the past three months.</div>
           </div>
           <div class="row mt-3">
             <div class="col-3"></div>
