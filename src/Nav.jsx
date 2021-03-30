@@ -11,8 +11,8 @@ export default function Nav() {
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav">
-            <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-            <a class="nav-item nav-link" href="#">Projects</a>
+            <Link to="/" className="nav-item nav-link">Home</Link> <span className="sr-only">(current)</span>
+            <Link to="/projects" className="nav-item nav-link">Projects</Link>
             <a class="nav-item nav-link" href="/resume.docx" target="_blank">Resume</a>
           </div>
         </div>
