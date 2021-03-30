@@ -10,7 +10,7 @@ export default function About() {
           <div class="row mt-5">
           	 <div class="col-3"></div>
           	 <div class="col-2">
-          	 	<img class="Profilepic" src="public\Profilepic.jpg" alt="Profilepic"/>
+          	 	<img class="Profilepic" src="/Profilepic.jpg" alt="Profilepic"/>
           	 </div>
              <div class="col-4 back"></div>
           </div>
@@ -18,9 +18,9 @@ export default function About() {
             <div class="col-3"></div>
             <div class="col-6 back">
               <p class="lead">Social Media</p>
-                     <a href="https://www.linkedin.com/in/stephen-clark-5568b1206/"><img src=""
+                     <a href="https://www.linkedin.com/in/stephen-clark-5568b1206/"><img src="/linkedin.png"
                class="social social1" /></a>
-               <a href="https://github.com/sclark417"><img src="" class="social" /></a>
+               <a href="https://github.com/sclark417"><img src="/GitHub-Mark.png" class="social" /></a>
             </div>
           </div>
         </>

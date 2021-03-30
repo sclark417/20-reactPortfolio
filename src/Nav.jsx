@@ -12,7 +12,7 @@ export default function Nav() {
           <div class="navbar-nav">
             <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
             <a class="nav-item nav-link" href="#">Projects</a>
-            <a class="nav-item nav-link" href="/resumesec.pdf" target="_blank">Resume</a>
+            <a class="nav-item nav-link" href="/resume.docx" target="_blank">Resume</a>
           </div>
         </div>
       </nav>
