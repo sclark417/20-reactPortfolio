@@ -9,7 +9,7 @@
 
 .Profilepic {
   width: 100%;
-  border: 6px solid;
+  border: 2px solid;
 }
 .back {
   background-color: grey;
@@ -20,9 +20,10 @@
   font-family: "Kiwi Maru", serif;
 }
 .social {
-  height: 25%;
-  margin-top: auto;
+  height: 20%;
+  margin-top: 3%;
+  margin-left: 5%;
 }
 .social1 {
-  margin: auto;
+  margin-left: 10%;
 }
