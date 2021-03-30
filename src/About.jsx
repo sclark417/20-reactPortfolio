@@ -18,7 +18,7 @@ export default function About() {
             <div class="col-3"></div>
             <div class="col-6 back">
               <p class="lead">Social Media</p>
-                     <a href="https://www.linkedin.com/in/stephen-clark-5568b1206/"><img src="/linkedin.png"
+               <a href="https://www.linkedin.com/in/stephen-clark-5568b1206/"><img src="/linkedin.png"
                class="social social1" /></a>
                <a href="https://github.com/sclark417"><img src="/GitHub-Mark.png" class="social" /></a>
             </div>

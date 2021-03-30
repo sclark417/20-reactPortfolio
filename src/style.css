@@ -9,10 +9,10 @@
 
 .Profilepic {
   width: 100%;
-  border: 3px solid;
+  border: 6px solid;
 }
 .back {
-  background-color: black;
+  background-color: grey;
 }
 .lead {
   text-align: center;
@@ -21,9 +21,8 @@
 }
 .social {
   height: 25%;
-  margin-top: 3%;
-  margin-left: 5%;
+  margin-top: auto;
 }
 .social1 {
-  margin-left: 10%;
+  margin: auto;
 }
