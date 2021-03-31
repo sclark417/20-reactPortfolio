@@ -1,4 +1,5 @@
 import React from 'react'
+import Footer from'./Footer'
 
 export default function Home() {
     return (
@@ -22,6 +23,7 @@ export default function Home() {
                <a href="https://github.com/sclark417"><img src="/GitHub-Mark.png" class="social" /></a>
             </div>
           </div>
+          <Footer/>
         </>
     )
 }
