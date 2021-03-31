@@ -1,5 +1,5 @@
 import React from 'react'
-import Profilepic from './Profilepic.jpg'
+
 import Footer from'./Footer'
 
 export default function Home() {
@@ -9,7 +9,7 @@ export default function Home() {
           <div class="row mt-5">
           	 <div class="col-3"></div>
           	 <div class="col-2">
-          	 	<img class="Profilepic" src="/Profilepic.jpg" alt="Profilepic"/>
+          	 	<img class="profilepic" src="./profilepic.jpg" alt="profilepic"/>
           	 </div>
              <div class="col-4 back">Hello all, My Name is Stephen Clark.  I live in Parker Colorado, and have been attending the coding program with the University of Denver for the past three months.
              I am very excited after the class ends to see what the future holds for my coding career.  Please feel free to contact me and checkout my links provided below to look at my work

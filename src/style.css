@@ -7,9 +7,9 @@
   background-color: grey;
 }
 
-.Profilepic {
+.profilepic {
   width: 100%;
-  border: 2px solid;
+  border: 3px solid;
 }
 .back {
   background-color: grey;
@@ -22,11 +22,12 @@
 .social {
   height: 20%;
   margin-top: 3%;
-  margin-left: 5%;
+  margin-left: 20%;
 }
 .social1 {
   margin-left: 10%;
 }
+
 .navbar-nav a {
   margin-left: 10px;
   color: #fff;
@@ -35,4 +36,20 @@
 .navbar p {
   color: #fff;
   font-size: 18px;
+  margin-top: 1%;
+}
+.about {
+  text-align: center;
+  color: white;
+  font-size: larger;
+}
+.footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  height: 60px; /* Height of the footer */
+  background: grey;
+  text-align: center;
+  font-size: x-large;
+  color: white;
 }
