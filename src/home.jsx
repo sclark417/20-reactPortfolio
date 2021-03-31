@@ -1,4 +1,5 @@
 import React from 'react'
+import Profilepic from './Profilepic.jpg'
 import Footer from'./Footer'
 
 export default function Home() {
